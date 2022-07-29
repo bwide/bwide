@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Perimeter-inc](https://github.com/perimeter-inc)
+- 🔭 I’m currently working on [January](https://github.com/January-ai)
 - 🌱 I’m currently learning SwiftUI
 
 <div align="leading">
