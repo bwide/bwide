@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [January](https://github.com/January-ai)
-- 🌱 I’m currently learning SwiftUI
+- 🔭 I’m currently working with SwiftUI and UIKit at [Upside](https://github.com/upside-services)
 
 <div align="leading">
   <a href="https://github.com/bwide">
