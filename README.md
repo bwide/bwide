@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with SwiftUI and UIKit at [Upside](https://github.com/upside-services)
+- 🔭 I’m currently working at [Goodnotes](https://github.com/GoodNotes)
 
 <div align="leading">
   <a href="https://github.com/bwide">
