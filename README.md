@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Goodnotes](https://github.com/GoodNotes)
+- 🔭 I’m currently working at [Zalando](https://github.com/zalando)
 
 <div align="leading">
   <a href="https://github.com/bwide">
